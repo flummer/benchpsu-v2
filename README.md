@@ -4,7 +4,7 @@
 
 This is a conversion of an HP DPS-800GB server power supply, into a benchtop supply with connectors more commonly used for electronics and electrical prototyping.
 
-It's designed to be relatively easy to make, and not least easier to assemble, as there are no dantling wires to solder, and the front part can be assembled by it self and tehn mounted on the PSU. The only modification I have done to the PSU is to remove the retaining clip, simply by opening the case and drilling out the rivet, holding it in place. It's not a critical modification, but I prefered to get rid of it.
+It's designed to be relatively easy to make, and not least easier to assemble, as there are no dangling wires to solder, and the front part can be assembled by itself and then mounted on the PSU. The only modification I have done to the PSU is to remove the retaining clip, simply by opening the case and drilling out the rivet, holding it in place. It's not a critical modification, but I prefered to get rid of it.
 
 ## Features
 
