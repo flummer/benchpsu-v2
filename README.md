@@ -1,6 +1,6 @@
 # Benchtop PSU v2
 
-![Benchtop PSU v2](https://github.com/flummer/benchpsu-v2/raw/master/Images/bench_top_psu_v2_wide-8711.jpg) "Benchtop PSU v2
+![Benchtop PSU v2](https://github.com/flummer/benchpsu-v2/raw/master/Images/bench_top_psu_v2_wide-8711.jpg "Benchtop PSU v2")
 
 This is a conversion of an HP DPS-800GB server power supply, into a benchtop supply with connectors more commonly used for electronics and electrical prototyping.
 
